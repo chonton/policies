@@ -11,6 +11,7 @@ The name and a build version allows artifacts to be traced back to source code a
 - Releasable artifacts have a release [semantic version](./version.md) (without -SNAPSHOT, -alpha, or -beta suffix).
 - Releasable artifacts are immutable.
 - The source code for releasable artifacts must be tagged in source control.
+- An inventory of released artifacts (with license and dependency information) should be kept to enforce [license](./license.md) and [dependency](./dependency.md) policies
 
 ### All Artifacts 
 - Must be semantically versioned.

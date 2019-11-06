@@ -2,8 +2,8 @@
 All artifacts must be named and versioned.
 
 ## Purpose
-A semantic version allows a client to understand the compatibility of a artifact.
-A build version supports tracing a artifact back to the source code used to build the artifact.
+A semantic version allows a client to understand the compatibility of an artifact.
+A build version supports tracing an artifact back to the source code used to build the artifact.
 
 ## Procedures
 - Semantic version must follow the rules at [SemVer](semver.org)

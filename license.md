@@ -71,7 +71,7 @@ In the following table, reviewed licenses are marked as being acceptable (✓) o
 | No explicit license | ✗ | ✗ | ✗ |
 
 ### Artifacts Without an Explicit License
-Artifacts without an explicit licence or release grant is copywritten material.  Artifacts without license cannot be used.
+Artifacts without an explicit licence or release grant is implicitly copyrighted material.  Artifacts without license cannot be used.
 
 <p align="center">
   <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/></a>
